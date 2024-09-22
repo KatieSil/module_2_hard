@@ -10,4 +10,4 @@ for i in range(1, 20) :
 
 result = pairs_numbers
 print('Нужный пароль, для введённого числа: ', *result, sep='')
-# print('Нужный пароль, для введённого числа: ', *result)
+# print('Нужный пароль, для введённого числа: ', *pairs_numbers)
